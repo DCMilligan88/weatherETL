@@ -1,0 +1,601 @@
+,City,Value
+0,"Arden-Arcade, CA",1
+1,"Citrus Heights, CA",1
+2,"Roseville, CA",1
+3,"Davis, CA",1
+4,"Glendale, CA",1
+5,"Pasadena, CA",1
+6,"Burbank, CA",1
+7,"Menifee, CA",2
+8,"Riverside, CA",2
+9,"Jurupa Valley, CA",2
+10,"Bakersfield, CA",2
+11,"Hesperia, CA",2
+12,"Apple Valley, CA",3
+13,"Victorville, CA",3
+14,"Scottsdale, AZ",3
+15,"Henderson, NV",3
+16,"Indio, CA",3
+17,"Hemet, CA",3
+18,"Las Cruces, NM",4
+19,"North Las Vegas, NV",4
+20,"Modesto, CA",4
+21,"Turlock, CA",4
+22,"Corona, CA",4
+23,"Anaheim, CA",4
+24,"Garden Grove, CA",4
+25,"Fullerton, CA",4
+26,"Norwalk, CA",4
+27,"Buena Park, CA",4
+28,"Saint George, UT",5
+29,"Lancaster, CA",5
+30,"Palmdale, CA",5
+31,"Los Angeles, CA",6
+32,"East Los Angeles, CA",6
+33,"South Gate, CA",6
+34,"San Tan Valley, AZ",6
+35,"Rio Rancho, NM",6
+36,"Murrieta, CA",7
+37,"Thornton, CO",7
+38,"Merced, CA",7
+39,"Pomona, CA",7
+40,"Sunnyvale, CA",7
+41,"Mountain View, CA",7
+42,"San Bernardino, CA",8
+43,"Redlands, CA",8
+44,"Rialto, CA",8
+45,"Lynwood, CA",8
+46,"Inglewood, CA",8
+47,"Compton, CA",8
+48,"Hawthorne, CA",8
+49,"Pleasanton, CA",9
+50,"Livermore, CA",9
+51,"Chino, CA",9
+52,"Chino Hills, CA",9
+53,"San Ramon, CA",9
+54,"El Cajon, CA",10
+55,"Vacaville, CA",10
+56,"Visalia, CA",10
+57,"Folsom, CA",10
+58,"Elk Grove, CA",10
+59,"Rancho Cordova, CA",10
+60,"Sacramento, CA",11
+61,"Roswell, NM",11
+62,"Stockton, CA",11
+63,"Tracy, CA",11
+64,"Manteca, CA",11
+65,"Yuma, AZ",11
+66,"Boca Raton, FL",12
+67,"Boynton Beach, FL",12
+68,"Surprise, AZ",12
+69,"Glendale, AZ",12
+70,"Peoria, AZ",12
+71,"Longmont, CO",12
+72,"Midland, TX",13
+73,"Santa Monica, CA",13
+74,"Brandon, FL",13
+75,"Moreno Valley, CA",13
+76,"Perris, CA",13
+77,"Temecula, CA",13
+78,"El Monte, CA",14
+79,"West Covina, CA",14
+80,"Whittier, CA",14
+81,"Alhambra, CA",14
+82,"Baldwin Park, CA",14
+83,"Concord, CA",14
+84,"Antioch, CA",14
+85,"Fort Collins, CO",15
+86,"Greeley, CO",15
+87,"Loveland, CO",15
+88,"Long Beach, CA",15
+89,"Downey, CA",15
+90,"Carson, CA",16
+91,"Lakewood, CA",16
+92,"Bellflower, CA",16
+93,"Nampa, ID",16
+94,"Meridian, ID",16
+95,"Fishers, IN",16
+96,"Columbia, MD",17
+97,"Tampa, FL",17
+98,"Riverview, FL",17
+99,"Santa Fe, NM",17
+100,"Concord, NC",17
+101,"Escondido, CA",17
+102,"Chandler, AZ",18
+103,"Gilbert, AZ",18
+104,"Tucson, AZ",18
+105,"Phoenix, AZ",18
+106,"Tempe, AZ",18
+107,"Boulder, CO",18
+108,"Casas Adobes, AZ",18
+109,"Avondale, AZ",19
+110,"Goodyear, AZ",19
+111,"Palm Coast, FL",19
+112,"Pueblo, CO",19
+113,"Odessa, TX",19
+114,"Suffolk, VA",20
+115,"Thousand Oaks, CA",20
+116,"Torrance, CA",20
+117,"Redondo Beach, CA",20
+118,"Fontana, CA",20
+119,"Grand Prairie, TX",20
+120,"Rancho Cucamonga, CA",20
+121,"Ontario, CA",20
+122,"Upland, CA",20
+123,"Las Vegas, NV",21
+124,"Sunrise Manor, NV",21
+125,"Spring Valley, NV",21
+126,"Enterprise, NV",21
+127,"Yakima, WA",22
+128,"Oxnard, CA",22
+129,"Ventura, CA",22
+130,"Fresno, CA",22
+131,"Clovis, CA",22
+132,"Redding, CA",23
+133,"Johns Creek, GA",23
+134,"Mesa, AZ",23
+135,"Bend, OR",23
+136,"Santa Ana, CA",23
+137,"Irvine, CA",23
+138,"Orange, CA",23
+139,"Costa Mesa, CA",23
+140,"Mission Viejo, CA",24
+141,"Newport Beach, CA",24
+142,"Lake Forest, CA",24
+143,"Tustin, CA",24
+144,"Paradise, NV",25
+145,"Wichita Falls, TX",25
+146,"Provo, UT",25
+147,"Orem, UT",25
+148,"Santa Barbara, CA",25
+149,"Chico, CA",25
+150,"Huntington Beach, CA",26
+151,"Westminster, CA",26
+152,"Kennewick, WA",26
+153,"Redwood City, CA",26
+154,"Mesquite, TX",26
+155,"San Jose, CA",26
+156,"Santa Clara, CA",26
+157,"Milpitas, CA",27
+158,"Charleston, SC",27
+159,"Beaumont, TX",27
+160,"Silver Spring, MD",27
+161,"Fremont, CA",27
+162,"Carlsbad, CA",28
+163,"Vista, CA",28
+164,"San Angelo, TX",28
+165,"San Marcos, CA",28
+166,"Union City, CA",28
+167,"Hayward, CA",28
+168,"El Paso, TX",29
+169,"Mount Pleasant, SC",29
+170,"Fairfield, CA",29
+171,"West Valley, UT",29
+172,"West Jordan, UT",29
+173,"Sandy, UT",29
+174,"Columbia, SC",30
+175,"Huntsville, AL",30
+176,"Boise, ID",30
+177,"Oceanside, CA",30
+178,"Lake Charles, LA",30
+179,"Flagstaff, AZ",30
+180,"Lehigh Acres, FL",31
+181,"Cape Coral, FL",31
+182,"Portsmouth, VA",31
+183,"Kearney, NE",31
+184,"Gastonia, NC",31
+185,"Ogden, UT",31
+186,"Spring Hill, FL",32
+187,"Norman, OK",32
+188,"Reno, NV",32
+189,"Sparks, NV",32
+190,"Abilene, TX",32
+191,"Orlando, FL",32
+192,"Alafaya, FL",32
+193,"Chula Vista, CA",33
+194,"Tulsa, OK",33
+195,"Broken Arrow, OK",33
+196,"Greenville, NC",33
+197,"Santa Rosa, CA",33
+198,"Deltona, FL",34
+199,"Germantown, MD",34
+200,"Denton, TX",34
+201,"Laredo, TX",34
+202,"Fort Worth, TX",34
+203,"Pembroke Pines, FL",34
+204,"Miramar, FL",34
+205,"Davie, FL",34
+206,"Weston, FL",34
+207,"Rock Hill, SC",35
+208,"Garland, TX",35
+209,"San Diego, CA",35
+210,"Santa Clarita, CA",36
+211,"Simi Valley, CA",36
+212,"Joliet, IL",36
+213,"Oklahoma City, OK",36
+214,"Edmond, OK",36
+215,"Jackson, MS",36
+216,"Edinburg, TX",37
+217,"McKinney, TX",37
+218,"Allen, TX",37
+219,"Casper, WY",37
+220,"Vallejo, CA",37
+221,"Napa, CA",37
+222,"Hoover, AL",38
+223,"Augusta, GA",38
+224,"Arlington, TX",38
+225,"Albuquerque, NM",38
+226,"Gainesville, FL",38
+227,"Hialeah, FL",38
+228,"Miami Gardens, FL",38
+229,"Medford, OR",39
+230,"Albany, GA",39
+231,"Winston-Salem, NC",39
+232,"Independence, MO",39
+233,"Salinas, CA",39
+234,"Lynchburg, VA",40
+235,"McAllen, TX",40
+236,"Saint Petersburg, FL",40
+237,"Mission, TX",40
+238,"Pharr, TX",40
+239,"Rock Springs, WY",40
+240,"Rochester, MI",41
+241,"Sterling Heights, MI",41
+242,"Troy, MI",41
+243,"Southfield, MI",41
+244,"Athens-Clarke, GA",41
+245,"Macon, GA",41
+246,"Shreveport, LA",42
+247,"Fort Smith, AR",42
+248,"Lakeland, FL",42
+249,"Columbus, GA",42
+250,"Clearwater, FL",42
+251,"Largo, FL",42
+252,"Atlanta, GA",43
+253,"Sandy Springs, GA",43
+254,"Tuscaloosa, AL",43
+255,"Amarillo, TX",43
+256,"Palm Bay, FL",43
+257,"Melbourne, FL",43
+258,"Temple, TX",44
+259,"Santa Maria, CA",44
+260,"Missouri City, TX",44
+261,"Overland Park, KS",44
+262,"Kansas City, KS",44
+263,"Colorado Springs, CO",44
+264,"Honolulu, HI",45
+265,"Pearl City, HI",45
+266,"East Honolulu, HI",45
+267,"Kansas City, MO",45
+268,"Topeka, KS",45
+269,"Plano, TX",45
+270,"Frisco, TX",45
+271,"Carrollton, TX",45
+272,"Richardson, TX",45
+273,"Fayetteville, AR",46
+274,"Rapid City, SD",46
+275,"Dothan, AL",46
+276,"Gillette, WY",47
+277,"Longview, TX",47
+278,"Pearland, TX",47
+279,"Schenectady, NY",47
+280,"Woonsocket, RI",47
+281,"Pawtucket, RI",47
+282,"Toms River, NJ",47
+283,"Brookings, SD",48
+284,"Fayetteville, NC",48
+285,"Gulfport, MS",48
+286,"Kendall, FL",48
+287,"Lawrence, KS",48
+288,"Sugar Land, TX",49
+289,"Lincoln, NE",49
+290,"Saint Charles, MO",49
+291,"Frederick, MD",49
+292,"Round Rock, TX",49
+293,"Tyler, TX",49
+294,"The Woodlands, TX",50
+295,"Bolingbrook, IL",50
+296,"Brownsville, TX",50
+297,"Waco, TX",50
+298,"Jackson, TN",50
+299,"Lafayette, LA",50
+300,"Wilmington, NC",51
+301,"Grand Island, NE",51
+302,"Killeen, TX",51
+303,"Trenton, NJ",51
+304,"Owensboro, KY",51
+305,"Hattiesburg, MS",51
+306,"Carmel, IN",52
+307,"Allentown, PA",52
+308,"Lees Summit, MO",52
+309,"Saint Joseph, MO",52
+310,"Jonesboro, AR",52
+311,"Pocatello, ID",52
+312,"Chesapeake, VA",53
+313,"Clarksville, TN",53
+314,"Bryan, TX",53
+315,"College Station, TX",53
+316,"Lubbock, TX",53
+317,"Lakewood, CO",53
+318,"Arvada, CO",53
+319,"Westminster, CO",53
+320,"Olathe, KS",54
+321,"Lewiston, ME",54
+322,"Auburn, ME",54
+323,"Great Falls, MT",54
+324,"Mobile, AL",55
+325,"Waukesha, WI",55
+326,"Springdale, AR",55
+327,"Coral Springs, FL",55
+328,"Sunrise, FL",55
+329,"Lauderhill, FL",55
+330,"Baytown, TX",56
+331,"Pasadena, TX",56
+332,"League City, TX",56
+333,"Paterson, NJ",56
+334,"Warner Robins, GA",56
+335,"Roanoke, VA",56
+336,"Newport News, VA",57
+337,"Evansville, IN",57
+338,"Laramie, WY",57
+339,"Sioux City, IA",57
+340,"O Fallon, MO",57
+341,"San Francisco, CA",57
+342,"San Mateo, CA",57
+343,"Daly City, CA",57
+344,"Rochester, MN",58
+345,"Lawton, OK",58
+346,"Spokane, WA",58
+347,"Spokane Valley, WA",58
+348,"Savannah, GA",59
+349,"Town 'n' Country, FL",59
+350,"Bowling Green, KY",59
+351,"Columbia, MO",59
+352,"Springfield, IL",59
+353,"North Charleston, SC",59
+354,"Bozeman, MT",60
+355,"Peoria, IL",60
+356,"Bismarck, ND",60
+357,"Toledo, OH",60
+358,"Iowa City, IA",60
+359,"San Leandro, CA",60
+360,"Alameda, CA",60
+361,"Cheyenne, WY",61
+362,"Oakland, CA",61
+363,"Berkeley, CA",61
+364,"Richmond, CA",61
+365,"Reading, PA",61
+366,"Lafayette, IN",62
+367,"Philadelphia, PA",62
+368,"Butte, MT",62
+369,"Palatine, IL",62
+370,"Nashua, NH",62
+371,"Arlington Heights, IL",62
+372,"Evanston, IL",62
+373,"Springfield, MO",63
+374,"Idaho Falls, ID",63
+375,"Newark, DE",63
+376,"Bear, DE",63
+377,"Middletown, DE",63
+378,"Wilmington, DE",63
+379,"Aberdeen, SD",64
+380,"New Orleans, LA",64
+381,"Metairie, LA",64
+382,"Montgomery, AL",64
+383,"Murfreesboro, TN",64
+384,"Baton Rouge, LA",65
+385,"Decatur, IL",65
+386,"Davenport, IA",65
+387,"Port Saint Lucie, FL",65
+388,"New York, NY",65
+389,"Jersey City, NJ",65
+390,"Union City, NJ",65
+391,"Hartford, CT",66
+392,"New Britain, CT",66
+393,"Huntington, WV",66
+394,"Vancouver, WA",66
+395,"Tallahassee, FL",66
+396,"Missoula, MT",67
+397,"High Point, NC",67
+398,"Passaic, NJ",67
+399,"Clifton, NJ",67
+400,"Greensboro, NC",67
+401,"Cincinnati, OH",67
+402,"Covington, KY",67
+403,"Duluth, MN",68
+404,"Bloomington, IN",68
+405,"Pompano Beach, FL",68
+406,"Deerfield Beach, FL",68
+407,"Parkersburg, WV",68
+408,"Birmingham, AL",69
+409,"Danbury, CT",69
+410,"Detroit, MI",69
+411,"Warren, MI",69
+412,"Dearborn, MI",69
+413,"Waterbury, CT",69
+414,"Cedar Rapids, IA",70
+415,"Lowell, MA",70
+416,"Lawrence, MA",70
+417,"Asheville, NC",70
+418,"New Haven, CT",70
+419,"Brockton, MA",70
+420,"Quincy, MA",70
+421,"Columbus, OH",71
+422,"Aurora, IL",71
+423,"Naperville, IL",71
+424,"Elgin, IL",71
+425,"Billings, MT",71
+426,"Rutland, VT",72
+427,"Lexington, KY",72
+428,"Norfolk, VA",72
+429,"Fort Lauderdale, FL",72
+430,"Hollywood, FL",72
+431,"Plantation, FL",72
+432,"Dale City, VA",73
+433,"Jacksonville, NC",73
+434,"Renton, WA",73
+435,"Champaign, IL",73
+436,"Dover, NH",73
+437,"Rochester, NH",73
+438,"Centennial, CO",74
+439,"Highlands Ranch, CO",74
+440,"Denver, CO",74
+441,"Manchester, NH",74
+442,"Salt Lake City, UT",74
+443,"Aurora, CO",74
+444,"Bridgeport, CT",75
+445,"Corpus Christi, TX",75
+446,"Racine, WI",75
+447,"Watertown, SD",75
+448,"Hillsboro, OR",75
+449,"Beaverton, OR",75
+450,"Jacksonville, FL",76
+451,"Kailua, HI",76
+452,"Bethlehem, PA",76
+453,"Hammond, IN",76
+454,"Gary, IN",76
+455,"Roswell, GA",76
+456,"Ann Arbor, MI",77
+457,"Chattanooga, TN",77
+458,"Muncie, IN",77
+459,"Layton, UT",77
+460,"Oshkosh, WI",77
+461,"Kenosha, WI",77
+462,"Waukegan, IL",78
+463,"Salem, OR",78
+464,"Minot, ND",78
+465,"Newton, MA",78
+466,"Biloxi, MS",78
+467,"Bloomington, IL",78
+468,"Framingham, MA",79
+469,"West Fargo, ND",79
+470,"Fargo, ND",79
+471,"Sioux Falls, SD",79
+472,"Saint Cloud, MN",79
+473,"Miami, FL",79
+474,"Miami Beach, FL",79
+475,"Appleton, WI",80
+476,"Akron, OH",80
+477,"Saint Paul, MN",80
+478,"Waterloo, IA",80
+479,"Seattle, WA",80
+480,"Bellevue, WA",80
+481,"Hilo, HI",81
+482,"Morgantown, WV",81
+483,"Charlotte, NC",81
+484,"Charleston, WV",81
+485,"West Palm Beach, FL",81
+486,"Dallas, TX",82
+487,"Bellevue, NE",82
+488,"Fairbanks, AK",82
+489,"Wheeling, WV",82
+490,"Green Bay, WI",82
+491,"Eau Claire, WI",82
+492,"Knoxville, TN",83
+493,"Madison, WI",83
+494,"Gresham, OR",83
+495,"San Antonio, TX",83
+496,"Omaha, NE",83
+497,"Irving, TX",83
+498,"Lewisville, TX",83
+499,"Flower Mound, TX",83
+500,"Minneapolis, MN",84
+501,"Portland, OR",84
+502,"Brooklyn Park, MN",84
+503,"Plymouth, MN",84
+504,"Scranton, PA",85
+505,"Hampton, VA",85
+506,"Raleigh, NC",85
+507,"Durham, NC",85
+508,"Cary, NC",85
+509,"Kalamazoo, MI",85
+510,"New Bedford, MA",86
+511,"Fall River, MA",86
+512,"South Bend, IN",86
+513,"Eugene, OR",86
+514,"Austin, TX",86
+515,"Anchorage, AK",86
+516,"Cleveland, OH",87
+517,"Concord, NH",87
+518,"Atascocita, TX",87
+519,"Pittsburgh, PA",87
+520,"Tacoma, WA",87
+521,"South Portland, ME",87
+522,"Portland, ME",87
+523,"Norwalk, CT",88
+524,"Stamford, CT",88
+525,"Little Rock, AR",88
+526,"Waldorf, MD",88
+527,"Kenner, LA",88
+528,"Dover, DE",89
+529,"Flint, MI",89
+530,"Wichita, KS",89
+531,"Houston, TX",89
+532,"Memphis, TN",89
+533,"Southaven, MS",89
+534,"Bellingham, WA",90
+535,"Nashville, TN",90
+536,"Springfield, MA",90
+537,"Everett, WA",90
+538,"Centreville, VA",90
+539,"Richmond, VA",90
+540,"Erie, PA",91
+541,"Albany, NY",91
+542,"Baltimore, MD",91
+543,"Ellicott City, MD",91
+544,"Glen Burnie, MD",91
+545,"Grand Forks, ND",91
+546,"Virginia Beach, VA",92
+547,"Louisville, KY",92
+548,"Chicago, IL",92
+549,"Cicero, IL",92
+550,"Farmington, MI",92
+551,"Auburn, WA",92
+552,"Kent, WA",92
+553,"Federal Way, WA",92
+554,"Washington, DC",93
+555,"Arlington, VA",93
+556,"Alexandria, VA",93
+557,"Saint Louis, MO",93
+558,"Westland, MI",94
+559,"Montpelier, VT",94
+560,"Barre, VT",94
+561,"Livonia, MI",94
+562,"Des Moines, IA",94
+563,"Dayton, OH",94
+564,"Worcester, MA",95
+565,"Camden, NJ",95
+566,"Bloomington, MN",95
+567,"Schaumburg, IL",95
+568,"Milwaukee, WI",95
+569,"Winooski, VT",95
+570,"Burlington, VT",95
+571,"Yonkers, NY",96
+572,"New Rochelle, NY",96
+573,"Mount Vernon, NY",96
+574,"Bangor, ME",96
+575,"Rockford, IL",96
+576,"Fort Wayne, IN",97
+577,"Lansing, MI",97
+578,"Newark, NJ",97
+579,"Elizabeth, NJ",97
+580,"Parma, OH",97
+581,"Grand Rapids, MI",97
+582,"Boston, MA",98
+583,"Cambridge, MA",98
+584,"Lynn, MA",98
+585,"Somerville, MA",98
+586,"Wyoming, MI",98
+587,"Indianapolis, IN",98
+588,"Providence, RI",99
+589,"Warwick, RI",99
+590,"Cranston, RI",99
+591,"Rochester, NY",99
+592,"Canton, OH",99
+593,"Buffalo, NY",99
+594,"Cheektowaga, NY",99
+595,"Syracuse, NY",100
+596,"Youngstown, OH",100
+597,"Ketchikan, AK",100
+598,"Sitka, AK",100
+599,"Juneau, AK",100
