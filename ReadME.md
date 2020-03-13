@@ -18,7 +18,8 @@ To See how the biking CSVs were transformed review file: Clean_BikeData.ipynb
 To See how all of our CSVs were merged review file: Merging_Data.ipynb 
 
 ## Load ##
-
+We loaded our CSVs into a SQL database using postgres
+to understand how we did this review file: query.sql
 
 
 ________________________________________________________________________________________________________________________________________
@@ -28,7 +29,7 @@ Steps:
     pip install requirements.txt
 3. Open Postgres
 4. Use Schema file to Create tables needed for SQL Database
-    Schema File: *Schema File Name*
+    Schema File: query.sql
 5. Import CSV's Into Corresponding Table Names
 
 
